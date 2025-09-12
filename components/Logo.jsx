@@ -8,8 +8,8 @@ const Logo = () => {
         src="/lws_logo.png"
         className="max-w-[100px] md:max-w-[165px]"
         alt="Lws"
-        height={100}
-        width={165}
+        height={155}
+        width={155}
       />
     </Link>
   );
